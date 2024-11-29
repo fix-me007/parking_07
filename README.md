@@ -1,13 +1,13 @@
 # Smart parking system
-Project for sdt.co.th
+Sophomore project focusing on frontend
 
 This project is currently in development.
 
 ## Stack
 
-React
+React 18
 
-Shacdn
+Shadcn
 
 Frame motion
 
